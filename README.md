@@ -11,27 +11,27 @@ Users can offer their expertise in one domain and learn from others in return â€
 .Authentication
 .Signup / Login for users
 
-# Home Screen
+ Home Screen
 
-# Browse community posts & workshops
+ Browse community posts & workshops
 
-# See trending skills
+ See trending skills
 
-# Community
+ Community
 
-# Explore skill categories (e.g., Web Dev, Graphic Design, Music, AI, Fitness)
+ Explore skill categories (e.g., Web Dev, Graphic Design, Music, AI, Fitness)
 
-# Join a skill-based community
+ Join a skill-based community
 
-# Swaps
+ Swaps
 
-# Offer your skill
+ Offer your skill
 
-# Request another skill
+ Request another skill
 
-# Track swap status (Pending / Accepted / Rejected)
+ Track swap status (Pending / Accepted / Rejected)
 
-# Messaging
+ Messaging
 
 Chat with other users
 
